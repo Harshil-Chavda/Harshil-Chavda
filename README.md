@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshil-Chavda
 - 👀 I’m interested in coding in web development
-- 🌱 I’m currently learning computer engg in my diploma 2nd year
+- 🌱 I’m currently learning computer engg in my diploma 3nd year
 - 💞️ I’m looking to collaborate on my own company
 - 📫 How to reach me by email
 - 😄 Pronouns: not earn money but make money for yourself
