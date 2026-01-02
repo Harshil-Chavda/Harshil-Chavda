@@ -1,10 +1,10 @@
 # Hi there, I'm Harshil Chavda! 👋
 
 ### 👨‍💻 Founder | Developer | Student
-I am a 17-year-old Computer Engineering student based in **Ahmedabad, India**. I am passionate about building useful platforms and solving real-world business problems through code. Currently pursuing my **B.E. in Computer Engineering**.
+I am a 19-year-old Computer Engineering student based in **Ahmedabad, India**. I am passionate about building useful platforms and solving real-world business problems through code. Currently pursuing my **B.E. in Computer Engineering**.
 
-- 💼 **Founder:** [E-Material](https://your-link-here) (A comprehensive study platform for students).
-- 💻 **Current Role:** Web Developer & Operations @ **NE Solutions**.
+- 💼 **Founder:** [E-Material](https://e-material.vercel.app) (A comprehensive study platform for students).
+- 💻 **Current Role:** Web Developer & Operations.
 - 🎓 **Education:** B.E. in Computer Engineering @ Monark University (Ongoing).
 - 🏆 **Leadership:** Former Platoon Leader (PL) & Assistant Squad Leader at Gao Tak Inc.
 - ⚡ **Motto:** "Not just earning money, but making money work for you."
@@ -36,7 +36,7 @@ I am a 17-year-old Computer Engineering student based in **Ahmedabad, India**. I
 
 | Company | Role | Timeline | Responsibilities |
 | :--- | :--- | :--- | :--- |
-| **NE Solutions** | **Web Dev & Ops** | Aug 2025 - Present | Managed company website, inventory tracking, and social media marketing. |
+| **NE Solutions** | **Web Dev & Ops** | Aug 2025 - dec 2025 | Managed company website, inventory tracking, and social media marketing. |
 | **Gao Tak Inc.** | **Web Developer** | Nov 2024 - May 2025 | Built custom WooCommerce sites; Served as **Platoon Leader**. |
 | **Maruti Computer** | **Frontend Intern** | July 2024 - Oct 2024 | Developed responsive e-commerce clones and learned frontend logic. |
 
