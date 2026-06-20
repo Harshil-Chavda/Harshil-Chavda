@@ -130,15 +130,38 @@ I use AI-assisted development and automation tools to move from idea to working 
   </tr>
 </table>
 
-## Technology stack
+## Engineering and technology stack
+
+<table>
+  <tr>
+    <td><strong>Application engineering</strong></td>
+    <td>Next.js, React, TypeScript, JavaScript, Node.js, Express, HTML, CSS, Tailwind CSS, REST APIs</td>
+  </tr>
+  <tr>
+    <td><strong>AI engineering</strong></td>
+    <td>LLM API integration, prompt and context design, tool-using agents, structured outputs, multi-step agent workflows, local model experimentation</td>
+  </tr>
+  <tr>
+    <td><strong>Automation and integration</strong></td>
+    <td>n8n, Zapier, Gumloop, webhooks, API orchestration, scheduled workflows, human-in-the-loop processes</td>
+  </tr>
+  <tr>
+    <td><strong>Data and backend</strong></td>
+    <td>PostgreSQL, MongoDB, Supabase, Prisma, Redis, authentication, storage, database policies</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud and delivery</strong></td>
+    <td>Git, GitHub, Vercel, environment configuration, deployment workflows, analytics, technical SEO</td>
+  </tr>
+  <tr>
+    <td><strong>Product and interface</strong></td>
+    <td>Figma, responsive UI, accessibility-aware implementation, interaction design, rapid prototyping</td>
+  </tr>
+</table>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,nodejs,express,python&perline=10" alt="Frontend and programming technologies" />
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,prisma,redis,git,github,vercel,vscode,figma&perline=10" alt="Data, deployment, and development tools" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,python,postgres,mongodb,supabase,prisma,redis,git,github,vercel,figma&perline=8" alt="Harshil Chavda engineering technology stack" />
 
 </div>
 
