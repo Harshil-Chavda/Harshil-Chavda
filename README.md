@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:312e81,100:0891b2&text=Harshil%20Chavda&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI-Enabled%20Products%20%E2%80%A2%20EdTech&descAlignY=60&descSize=18&animation=fadeIn" alt="Harshil Chavda — Full-Stack Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:312e81,100:0891b2&text=Harshil%20Chavda&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Product%20Builder%20%E2%80%A2%20Automation&descAlignY=60&descSize=18&animation=fadeIn" alt="Harshil Chavda — Full-Stack Developer and AI Product Builder" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+practical+products+for+real+problems;Next.js+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Supabase;AI+workflows+%E2%80%A2+Business+platforms+%E2%80%A2+EdTech" alt="Developer focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Building+practical+products+for+real+problems;Creating+AI+agents%2C+systems%2C+and+automations;Orchestrating+tools%2C+models%2C+APIs%2C+and+workflows;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Supabase+%E2%80%A2+AI" alt="Developer and AI automation focus" />
 </a>
 
 <p>
@@ -27,6 +27,61 @@ Principle    Build useful systems, document them clearly, improve them continuou
 ```
 
 I am a Computer Engineering student and full-stack developer building practical web products with modern frontend, backend, database, and deployment tools. My work includes education platforms, business systems, dashboards, authentication, analytics, automation, and search-ready web experiences.
+
+## AI product engineering
+
+I use AI-assisted development and automation tools to move from idea to working system: researching requirements, prototyping interfaces, generating and reviewing code, connecting APIs, creating personal agents, orchestrating workflows, and testing complete product flows. These tools accelerate delivery; engineering judgment, verification, security, and maintainability still determine whether the result is production-ready.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI coding and app building</h3>
+      <p>
+        <img src="https://img.shields.io/badge/OpenAI_Codex-111827?style=flat-square" alt="OpenAI Codex" />
+        <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square" alt="Claude Code" />
+        <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" alt="Cursor" />
+        <img src="https://img.shields.io/badge/Bolt-4338CA?style=flat-square" alt="Bolt" />
+        <img src="https://img.shields.io/badge/Lovable-EC4899?style=flat-square" alt="Lovable" />
+        <img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white" alt="Replit" />
+        <img src="https://img.shields.io/badge/Emergent-0F172A?style=flat-square" alt="Emergent" />
+        <img src="https://img.shields.io/badge/Antigravity-7C3AED?style=flat-square" alt="Antigravity" />
+        <img src="https://img.shields.io/badge/Manus-2563EB?style=flat-square" alt="Manus" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Agents and workflow automation</h3>
+      <p>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+        <img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" />
+        <img src="https://img.shields.io/badge/Gumloop-7C3AED?style=flat-square" alt="Gumloop" />
+        <img src="https://img.shields.io/badge/Sim-0891B2?style=flat-square" alt="Sim" />
+        <img src="https://img.shields.io/badge/OpenClaw-DC2626?style=flat-square" alt="OpenClaw" />
+        <img src="https://img.shields.io/badge/Paperclip-475569?style=flat-square" alt="Paperclip" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Models and local experimentation</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+        <img src="https://img.shields.io/badge/Prompt_Design-0F766E?style=flat-square" alt="Prompt design" />
+        <img src="https://img.shields.io/badge/Tool_Using_Agents-0369A1?style=flat-square" alt="Tool-using agents" />
+        <img src="https://img.shields.io/badge/API_Integration-7C3AED?style=flat-square" alt="API integration" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI design and media</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Figma_AI-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma AI" />
+        <img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Stitch" />
+        <img src="https://img.shields.io/badge/Google_Flow-34A853?style=flat-square&logo=google&logoColor=white" alt="Google Flow" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+**What I build with this toolkit:** AI-assisted websites, personal agents, internal systems, content pipelines, business automations, API-connected workflows, and rapid product prototypes.
 
 ## Featured work
 
